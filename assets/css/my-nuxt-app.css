@@ -1,0 +1,41 @@
+.login-container {
+  height: 100vh;
+  background: url('/images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-box {
+  background-color: rgba(0,0,0,0.75);
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 400px;
+  width: 90%;
+  color: #fff;
+  box-shadow: 0 0 10px #000;
+  font-family: 'Cinzel Decorative', serif;
+}
+
+.drop-shadow-gothic {
+  text-shadow:
+    0 0 5px #f97316,
+    0 0 10px #f97316,
+    0 0 20px #f97316,
+    0 0 30px #f97316;
+}
+
+.neon-text {
+  color: #f97316;
+  text-shadow:
+    0 0 8px #f97316,
+    0 0 16px #f97316,
+    0 0 24px #f97316,
+    0 0 32px #f97316,
+    0 0 40px #f97316;
+  font-family: 'Cinzel Decorative', serif;
+  font-weight: 700;
+  font-size: 3rem;
+  text-align: center;
+}
