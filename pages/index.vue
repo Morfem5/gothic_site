@@ -122,7 +122,7 @@ import { ref } from 'vue'
 
 const womenProducts = [
   { name: "Elbise", image: "/images/dress.png" },
-  { name: "Bolero", image: "/images/bolero.png" },
+  { name: "Bolero", image: "/images/Bolero.png" },
   { name: "Kolye", image: "/images/necklace.webp" },
   { name: "Şapka", image: "/images/hat1.png" }
 ]
